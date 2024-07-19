@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/PetDrugsOnline/Shared%20Documents/store/starter-content-commerce?csf=1&web=1&e=5azCEx
 
 folders:
   /products/: /products/default
